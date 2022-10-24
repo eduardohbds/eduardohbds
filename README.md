@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eduardo
 #### I am Software Engineer
-![I am Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/mages/banner.png)
+![I am Software Engineer](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 Olá, eu tenho 23 anos e moro em Quixadá - CE, atualmente estou terminando a faculdade. 
 
