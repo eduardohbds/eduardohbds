@@ -2,7 +2,7 @@
 #### I am Software Engineer
 ![I am Software Engineer](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
-Olá, eu tenho 23 anos e moro em Quixadá - CE, atualmente estou terminando a faculdade. 
+Olá, eu tenho 23 anos e moro em Quixadá - CE, atualmente estou terminando a faculdade. Além dessas linguagens, estou estudando teste e refatoração de código.
 
 Skills: REACT / JS / HTML / CSS / Java(Mobile) / Spring Boot /Kotlin
 
