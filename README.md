@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Eduardo
-#### I am Software Engineer
 ![I am Software Engineer](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
-Olá, eu tenho 23 anos e moro em Quixadá - CE, atualmente estou terminando a faculdade. Além dessas linguagens, estou estudando teste e refatoração de código.
+Olá, eu tenho 23 anos e moro em Quixadá - CE, atualmente estou cursando o curso de engenharia de Software na faculdade UFC - Campi Quixada . Além dessas linguagens, estou estudando teste e refatoração de código.
 
 Skills: REACT / JS / HTML / CSS / Java(Mobile) / Spring Boot /Kotlin
 
